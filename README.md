@@ -1,5 +1,3 @@
-- 👋 Hi, My name is Hamza Abbas
-- 👀 I’m interested in App Development
-
-
-
+Hamza Mohamed Ahmed
+Comp Sci major
+GIU class of '29
